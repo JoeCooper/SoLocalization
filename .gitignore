@@ -1,5 +1,6 @@
 #Autosave files
 *~
+SerializableDictionary.meta
 LICENSE.meta
 *.DS_Store
 *.csproj
